@@ -1,5 +1,4 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-version: 1
 site:
   title: Python for Cybersecurity
   structure:
@@ -9,5 +8,5 @@ site:
       path: python-for-cybersecurity
       default: true
       content:
-        directory: .
+        directory: ./
         language: id
