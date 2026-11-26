@@ -3,5 +3,27 @@ version: 1
 title: Belajar Python
 description: Modul belajar Python dari dasar hingga cybersecurity
 language: id
+theme: default
 structure:
   summary: SUMMARY.md
+sidebar:
+  collapsed: false
+  links:
+    - title: "GitHub Repository"
+      url: "https://github.com/whitehat57/Belajar-python"
+      icon: github
+    - title: "Issues & Requests"
+      url: "https://github.com/whitehat57/Belajar-python/issues"
+      icon: alert
+redirects:
+  /01-python-fundamentals.md: /python/cybersecurity/01-python-fundamentals.md
+  /02-network-programming.md: /python/cybersecurity/02-network-programming.md
+  /03-project-packet-sniffer.md: /python/cybersecurity/03-project-packet-sniffer.md
+  /04-project-port-scanner.md: /python/cybersecurity/04-project-port-scanner.md
+  /05-project-wordlist-generator.md: /python/cybersecurity/05-project-wordlist-generator.md
+  /06-final-challenge.md: /python/cybersecurity/06-final-challenge.md
+search: true
+pdf:
+  enabled: true
+  pageSize: A4
+  margin: 2cm

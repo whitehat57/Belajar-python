@@ -3,5 +3,20 @@ version: 1
 title: Belajar JavaScript
 description: Modul belajar JavaScript dari dasar hingga Node.js
 language: id
+theme: default
 structure:
   summary: SUMMARY.md
+sidebar:
+  collapsed: false
+  links:
+    - title: "GitHub Repository"
+      url: "https://github.com/whitehat57/Belajar-python"
+      icon: github
+    - title: "Issues & Requests"
+      url: "https://github.com/whitehat57/Belajar-python/issues"
+      icon: alert
+search: true
+pdf:
+  enabled: true
+  pageSize: A4
+  margin: 2cm

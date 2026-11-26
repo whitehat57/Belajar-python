@@ -3,5 +3,20 @@ version: 1
 title: Belajar HTML & CSS
 description: Modul belajar HTML & CSS modern
 language: id
+theme: default
 structure:
   summary: SUMMARY.md
+sidebar:
+  collapsed: false
+  links:
+    - title: "GitHub Repository"
+      url: "https://github.com/whitehat57/Belajar-python"
+      icon: github
+    - title: "Issues & Requests"
+      url: "https://github.com/whitehat57/Belajar-python/issues"
+      icon: alert
+search: true
+pdf:
+  enabled: true
+  pageSize: A4
+  margin: 2cm
