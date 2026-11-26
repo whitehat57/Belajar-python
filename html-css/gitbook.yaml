@@ -1,0 +1,7 @@
+$schema: https://api.gitbook.com/gitbook.yaml
+version: 1
+title: Belajar HTML & CSS
+description: Modul belajar HTML & CSS modern
+language: id
+structure:
+  summary: SUMMARY.md

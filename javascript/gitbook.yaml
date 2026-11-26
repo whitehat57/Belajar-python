@@ -1,0 +1,7 @@
+$schema: https://api.gitbook.com/gitbook.yaml
+version: 1
+title: Belajar JavaScript
+description: Modul belajar JavaScript dari dasar hingga Node.js
+language: id
+structure:
+  summary: SUMMARY.md

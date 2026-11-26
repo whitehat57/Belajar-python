@@ -1,12 +1,32 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
 site:
-  title: Python for Cybersecurity
+  title: Belajar Programming
   structure:
+    # Python Space
     - type: space
-      key: space-main
-      title: Python for Cybersecurity
-      path: python-for-cybersecurity
+      key: space-python
+      title: Belajar Python
+      path: python
       default: true
       content:
-        directory: ./
+        directory: ./python
+        language: id
+    
+    # JavaScript Space
+    - type: space
+      key: space-javascript
+      title: Belajar JavaScript
+      path: javascript
+      content:
+        directory: ./javascript
+        language: id
+    
+    # HTML & CSS Space
+    - type: space
+      key: space-html-css
+      title: Belajar HTML & CSS
+      path: html-css
+      content:
+        directory: ./html-css
         language: id

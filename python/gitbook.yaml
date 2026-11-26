@@ -1,0 +1,7 @@
+$schema: https://api.gitbook.com/gitbook.yaml
+version: 1
+title: Belajar Python
+description: Modul belajar Python dari dasar hingga cybersecurity
+language: id
+structure:
+  summary: SUMMARY.md
