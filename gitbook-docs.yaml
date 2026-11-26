@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Python for Cybersecurity
+  structure:
+    - type: space
+      key: space-main
+      title: Python for Cybersecurity
+      path: python-for-cybersecurity
+      default: true
+      content:
+        directory: .
+        language: id
